@@ -1,0 +1,15 @@
+2020-09-25 14:36:45  [ restartedMain:428 ] - [ INFO ]  Starting ViewApplication on LAPTOP-POJ4GAHN with PID 4716 (E:\project\view\target\classes started by 20389 in E:\project\view)
+2020-09-25 14:36:45  [ restartedMain:430 ] - [ INFO ]  No active profile set, falling back to default profiles: default
+2020-09-25 14:36:46  [ restartedMain:537 ] - [ INFO ]  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-25 14:36:46  [ restartedMain:538 ] - [ INFO ]  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-25 14:36:46  [ background-preinit:604 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-09-25 14:36:48  [ restartedMain:3013 ] - [ INFO ]  Tomcat initialized with port(s): 8888 (http)
+2020-09-25 14:36:48  [ restartedMain:3239 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 2701 ms
+2020-09-25 14:36:49  [ restartedMain:3845 ] - [ INFO ]  Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-25 14:36:49  [ restartedMain:4502 ] - [ INFO ]  LiveReload server is running on port 35729
+2020-09-25 14:36:50  [ restartedMain:4558 ] - [ INFO ]  Tomcat started on port(s): 8888 (http) with context path ''
+2020-09-25 14:36:50  [ restartedMain:4609 ] - [ INFO ]  Started ViewApplication in 4.802 seconds (JVM running for 6.075)
+2020-09-25 14:37:05  [ http-nio-8888-exec-1:20187 ] - [ INFO ]  Initializing Servlet 'dispatcherServlet'
+2020-09-25 14:37:05  [ http-nio-8888-exec-1:20198 ] - [ INFO ]  Completed initialization in 10 ms
+2020-09-25 14:37:06  [ http-nio-8888-exec-3:21159 ] - [ INFO ]  HikariPool-1 - Starting...
+2020-09-25 14:37:06  [ http-nio-8888-exec-3:21462 ] - [ INFO ]  HikariPool-1 - Start completed.

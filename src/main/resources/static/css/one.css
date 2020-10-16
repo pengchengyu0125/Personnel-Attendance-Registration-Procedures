@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#view{
+    width: 850px;
+    height: 200px;
+    margin: 50px auto;
+    position: relative;
+    top:300px;
+}
+.words{
+    display:inline;
+    font-size:25px;
+    position:relative;
+}
+.bg{
+    position: absolute;
+    width: 800px;
+    height: 10px;
+    background-color: #ccc;
+    margin: 25px;
+}
+.bg>div{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+    background-color: #ccc;
+    text-align: center;
+    line-height: 50px
+}
+.box{
+    width: 50px;
+    height: 70px;
+    position: absolute;
+    left: 0;
+    top: 35px;
+    overflow: hidden;
+}
+.box .view{
+    position: absolute;
+    width: 800px;
+    height: 10px;
+    background-color: #4bb985;
+    margin: 25px;
+}
+.box .view>div{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+    background-color: #4bb985;
+    text-align: center;
+    line-height: 50px
+}
+.btns{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.btns p{
+    padding-left: 20px;
+}
+.btns input{
+    width: 120px;
+    height: 26px;
+    outline: none;
+    margin-right: 25px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.btns button{
+    width: 80px;
+    height: 30px;
+    margin: 0 10px;
+    background-color: #009688;
+    border: none;
+    color: #fff;
+    outline: none;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+}

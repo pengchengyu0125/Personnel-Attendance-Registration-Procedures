@@ -1,0 +1,1 @@
+2020-09-29 16:25:50  [ background-preinit:487 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath

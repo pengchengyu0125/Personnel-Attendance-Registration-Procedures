@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.items{
+    margin: 50px;
+}
+.item{
+    font-size: 20px;
+    color: #666;
+    display: flex;
+    align-content: center;
+    position: relative;
+    height: 86px;
+    width: 500px;
+    top: 200px;
+    left: 35%;
+}
+.point{
+    width:12px ;
+    height: 12px;
+    background: #e4e7ed;
+    border-radius: 50%;
+    position:absolute;
+    left:210px;
+}
+.line{
+    position: absolute;
+    left: 215px;
+    top: 12px;
+    width: 3px;
+    height: 75px;
+    background: #e4e7ed;
+}
+.item-right{
+    margin-left: 14px;
+    margin-top: -2px;
+    position:absolute;
+    left:250px;
+}
+.item-left{
+    margin-left: 14px;
+    margin-right: 10px;
+}

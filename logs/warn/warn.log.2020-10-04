@@ -1,0 +1,53 @@
+2020-10-04 09:30:20  [ background-preinit:527 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 09:43:55  [ http-nio-8888-exec-3:815830 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@41bd492 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 09:44:00  [ http-nio-8888-exec-3:820832 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4793c09b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 09:44:05  [ http-nio-8888-exec-3:825835 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6aecaa0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 09:44:09  [ http-nio-8888-exec-6:830014 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@37e20dcd (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 09:44:10  [ http-nio-8888-exec-3:830840 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@668135ef (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 09:44:14  [ http-nio-8888-exec-6:835017 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4b705ad0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 09:44:15  [ http-nio-8888-exec-3:835840 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@62cfafcf (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 09:44:20  [ background-preinit:414 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 09:49:17  [ background-preinit:437 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 09:50:02  [ background-preinit:441 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 09:50:47  [ background-preinit:457 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 09:50:55  [ background-preinit:579 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 09:51:09  [ background-preinit:505 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 10:05:13  [ HikariPool-1 housekeeper:844290 ] - [ WARN ]  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m55s412ms705µs600ns).
+2020-10-04 10:05:18  [ http-nio-8888-exec-10:849357 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@76ae6e93 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 10:05:37  [ background-preinit:843 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 10:06:55  [ background-preinit:596 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 10:50:00  [ background-preinit:674 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 10:51:07  [ background-preinit:406 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 10:51:31  [ background-preinit:500 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:10:36  [ background-preinit:738 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:11:08  [ background-preinit:482 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:11:50  [ background-preinit:475 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:14:10  [ background-preinit:378 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:15:30  [ background-preinit:595 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:16:46  [ HikariPool-1 housekeeper:76055 ] - [ WARN ]  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m7s309ms693µs500ns).
+2020-10-04 11:35:23  [ HikariPool-1 housekeeper:1193408 ] - [ WARN ]  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m34s741ms389µs200ns).
+2020-10-04 11:37:29  [ http-nio-8888-exec-2:1319365 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@210e066 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:37:32  [ http-nio-8888-exec-2:1321829 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@698d1043 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:38:36  [ background-preinit:534 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:39:14  [ background-preinit:498 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:43:39  [ http-nio-8888-exec-10:265499 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4be79dd8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:43:44  [ http-nio-8888-exec-10:270505 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7aee3634 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:43:49  [ http-nio-8888-exec-10:275508 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3bd33c0f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:43:54  [ http-nio-8888-exec-10:280511 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@aa2a3f6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:43:59  [ http-nio-8888-exec-10:285514 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5bfcc340 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:44:04  [ http-nio-8888-exec-10:290517 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@76c964a7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:44:15  [ http-nio-8888-exec-4:301703 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5fb27c1d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-04 11:44:19  [ background-preinit:396 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:46:22  [ background-preinit:339 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 11:59:00  [ background-preinit:461 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:00:02  [ background-preinit:454 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:00:08  [ background-preinit:590 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:01:39  [ HikariPool-1 housekeeper:91315 ] - [ WARN ]  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s737ms4µs700ns).
+2020-10-04 12:02:41  [ background-preinit:871 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:03:42  [ HikariPool-1 housekeeper:61484 ] - [ WARN ]  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s982ms112µs600ns).
+2020-10-04 12:04:41  [ background-preinit:505 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:05:21  [ background-preinit:637 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:06:56  [ background-preinit:699 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:07:40  [ background-preinit:471 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:09:04  [ background-preinit:410 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-04 12:12:06  [ background-preinit:366 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
