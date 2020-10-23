@@ -23,6 +23,7 @@ public class PageDTO {
     private String visitPhone;
     private String startTime;
     private String endTime;
+    private String status;
 
     //设置分页展示情况
     public void setPagination(Integer totalPage, Integer page) {

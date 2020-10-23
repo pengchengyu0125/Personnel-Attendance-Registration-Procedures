@@ -12,6 +12,7 @@
 	<artifactId>view</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>view</name>
+	<packaging>war</packaging>
 	<description>view</description>
 
 	<properties>

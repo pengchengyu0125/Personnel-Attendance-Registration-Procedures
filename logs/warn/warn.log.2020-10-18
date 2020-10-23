@@ -1,0 +1,66 @@
+2020-10-18 11:06:13  [ background-preinit:779 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 11:12:28  [ background-preinit:515 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 11:47:44  [ background-preinit:466 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 11:55:32  [ background-preinit:382 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 11:55:41  [ background-preinit:626 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 11:56:52  [ HikariPool-1 housekeeper:72252 ] - [ WARN ]  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s693ms807µs100ns).
+2020-10-18 11:56:59  [ background-preinit:370 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 12:05:49  [ background-preinit:468 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 12:08:19  [ background-preinit:389 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 12:14:42  [ http-nio-8888-exec-4:383660 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:06:01  [ http-nio-8888-exec-9:3462315 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2380b5c0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-18 13:06:06  [ background-preinit:484 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 13:06:26  [ http-nio-8888-exec-1:20690 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:33:26  [ http-nio-8888-exec-5:1640100 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@25ed96be (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-18 13:33:31  [ http-nio-8888-exec-5:1645111 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5eda64b1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-18 13:33:36  [ http-nio-8888-exec-5:1650115 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1fe76e8a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-18 13:33:42  [ background-preinit:401 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 13:33:51  [ http-nio-8888-exec-1:9508 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:34:04  [ http-nio-8888-exec-1:22065 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:34:11  [ background-preinit:469 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 13:34:27  [ http-nio-8888-exec-8:16833 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:35:19  [ http-nio-8888-exec-9:68859 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:35:22  [ http-nio-8888-exec-10:71691 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:35:25  [ http-nio-8888-exec-3:74894 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:36:04  [ background-preinit:526 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 13:36:18  [ http-nio-8888-exec-7:14359 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:36:44  [ http-nio-8888-exec-3:40307 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:36:48  [ http-nio-8888-exec-5:43768 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:36:50  [ http-nio-8888-exec-10:46513 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:41:39  [ http-nio-8888-exec-1:335293 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:41:43  [ http-nio-8888-exec-6:338635 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:42:09  [ http-nio-8888-exec-10:364679 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:43:31  [ http-nio-8888-exec-7:446550 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:43:39  [ http-nio-8888-exec-8:454888 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:43:51  [ http-nio-8888-exec-4:466701 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:44:23  [ http-nio-8888-exec-5:499269 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:44:32  [ http-nio-8888-exec-4:508117 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:44:58  [ background-preinit:459 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 13:45:34  [ background-preinit:610 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 13:46:10  [ http-nio-8888-exec-8:37031 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 13:53:55  [ http-nio-8888-exec-9:502421 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5d270cfb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-18 13:54:00  [ http-nio-8888-exec-9:507425 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@233a6f6e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-18 13:54:05  [ background-preinit:553 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 13:59:42  [ http-nio-8888-exec-2:338032 ] - [ WARN ]  HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5ee09f8a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-10-18 13:59:47  [ background-preinit:430 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 14:25:15  [ http-nio-8888-exec-8:1528218 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:25:18  [ http-nio-8888-exec-1:1530728 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:27:13  [ http-nio-8888-exec-7:1645808 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:27:15  [ http-nio-8888-exec-9:1648031 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:28:05  [ http-nio-8888-exec-10:1698355 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:30:37  [ http-nio-8888-exec-8:1849711 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:30:40  [ http-nio-8888-exec-3:1852664 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:30:43  [ http-nio-8888-exec-9:1856339 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:33:50  [ http-nio-8888-exec-6:2043491 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:33:56  [ http-nio-8888-exec-1:2049125 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:37:16  [ background-preinit:451 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 14:37:37  [ http-nio-8888-exec-6:21350 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:38:05  [ http-nio-8888-exec-2:49724 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:38:10  [ http-nio-8888-exec-3:54202 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:38:24  [ http-nio-8888-exec-1:68670 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:38:33  [ http-nio-8888-exec-9:77568 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:38:38  [ http-nio-8888-exec-7:82597 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:39:12  [ background-preinit:533 ] - [ WARN ]  For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-10-18 14:39:21  [ http-nio-8888-exec-10:10094 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:39:24  [ http-nio-8888-exec-5:12511 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
+2020-10-18 14:39:39  [ http-nio-8888-exec-10:27440 ] - [ WARN ]  Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'visitPhone' is not present]
