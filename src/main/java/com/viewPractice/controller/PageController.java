@@ -29,7 +29,7 @@ public class PageController {
                        @RequestParam(name="endTime", required = false) String endTime,
                        @RequestParam(name="status", defaultValue = "2") String status){
         //获取分页显示的信息
-        PageDTO pages = pageService.list(page, size, visitName, visitPhone, startTime, endTime, status);
+        PageDTO pages = pageService.list1(page, size, visitName, visitPhone, startTime, endTime, status);
         //数据为空错误
         ErrorTypeDTO errorTypeDTO = new ErrorTypeDTO();
         if (pages.getInfoDTOS() == null)

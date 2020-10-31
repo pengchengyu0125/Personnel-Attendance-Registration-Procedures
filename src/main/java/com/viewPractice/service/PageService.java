@@ -1,10 +1,14 @@
 package com.viewPractice.service;
 
+import com.viewPractice.dto.InfoDTO;
 import com.viewPractice.dto.PageDTO;
 import com.viewPractice.mapper.PageMapper;
 import com.viewPractice.mapper.PageStatusMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /*
 分页页面Service
@@ -20,6 +24,7 @@ public class PageService {
 
     //获取页面DTO信息
     public PageDTO list(int page, int size, String visitName, String visitPhone, String startTime, String endTime, String status){
+        status = "2";
         PageDTO pageDTO = new PageDTO();
         pageDTO.setSize(size);
         pageDTO.setVisitName(visitName);
@@ -134,5 +139,29 @@ public class PageService {
         for (int i = 0; i < phoneList.length; i++) {
             pageMapper.update(phoneList[i]);
         }
+    }
+
+    public PageDTO list1(Integer page, Integer size, String visitName, String visitPhone, String startTime, String endTime, String status) {
+        PageDTO pageDTO = new PageDTO();
+        pageDTO.setSize(size);
+        pageDTO.setVisitName(visitName);
+        pageDTO.setVisitPhone(visitPhone);
+        pageDTO.setStartTime(startTime);
+        pageDTO.setEndTime(endTime);
+        pageDTO.setStatus(status);
+        //总页面数
+        Integer totalPage;
+        //总数据数
+        Integer totalCount = 1;
+        totalPage = 1;
+        //判断页面总数
+        page = 1;
+        pageDTO.setPagination(totalPage, page);
+        Integer offset = size * (page - 1);//当前起始数据索引
+        InfoDTO infoDTO = new InfoDTO();
+        List<InfoDTO> infoDTOS = new ArrayList<>();
+        infoDTOS.add(infoDTO);
+        pageDTO.setInfoDTOS(infoDTOS);
+        return pageDTO;
     }
 }
